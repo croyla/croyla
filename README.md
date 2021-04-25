@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @croyla, a.k.a Aayush Rai
+- 👋 Hi, I’m @croyla, also called Aayush Rai
 
 <!---
 croyla/croyla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
